@@ -1,0 +1,5 @@
+graft FrogCord
+
+prune FrogCord/.git
+prune FrogCord/.idea
+prune FrogCord/venv
